@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kphahle.ESRI-SA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kphahle.ESRI-SA\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

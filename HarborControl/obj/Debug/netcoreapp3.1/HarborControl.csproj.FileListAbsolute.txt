@@ -1,0 +1,17 @@
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\HarborControl.exe
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\HarborControl.deps.json
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\HarborControl.runtimeconfig.json
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\HarborControl.runtimeconfig.dev.json
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\HarborControl.dll
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\HarborControl.pdb
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\obj\Debug\netcoreapp3.1\HarborControl.csprojAssemblyReference.cache
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\obj\Debug\netcoreapp3.1\HarborControl.AssemblyInfoInputs.cache
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\obj\Debug\netcoreapp3.1\HarborControl.AssemblyInfo.cs
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\obj\Debug\netcoreapp3.1\HarborControl.dll
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\obj\Debug\netcoreapp3.1\HarborControl.pdb
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\obj\Debug\netcoreapp3.1\HarborControl.genruntimeconfig.cache
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\obj\Debug\netcoreapp3.1\HarborControl.csproj.CoreCompileInputs.cache
+C:\Users\kphahle.ESRI-SA\source\repos\HarborControl\HarborControl\obj\Debug\netcoreapp3.1\HarborControl.csproj.CopyComplete
